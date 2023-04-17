@@ -13,5 +13,5 @@ jobs:
         uses: chaeyeonlee07/productive-box@master
         env:
           GH_TOKEN: ${{secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: ${{ 9ccdfa72fe3fe3b6cc700c2a41bd2973 }}
           TIMEZONE: America/New_York
